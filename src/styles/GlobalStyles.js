@@ -6,11 +6,12 @@ export const GlobalStyles = createGlobalStyle`
   *::before{
     box-sizing: border-box;
   }
-  
+
   img{
     display: block;
     max-width: 100%;
   }
+  
   body{
     margin: 0;
     font-family: sans-serif;
